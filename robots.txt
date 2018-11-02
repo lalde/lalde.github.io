@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lalde.github.io//sitemap.xml
